@@ -2304,7 +2304,7 @@ body.is-touch .main {
 }
 
 #intro2 {
-    background: url("images/overlay.png"), url("../../images/intro.jpg");
+    background: url("images/overlay.png"), url("../../images/intro2.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, bottom center;
@@ -2312,7 +2312,7 @@ body.is-touch .main {
 }
 
 #intro3 {
-    background: url("images/overlay.png"), url("../../images/intro.jpg");
+    background: url("images/overlay.png"), url("../../images/intro2.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, bottom center;
