@@ -2311,6 +2311,14 @@ body.is-touch .main {
     background-repeat: repeat, no-repeat;
 }
 
+#intro3 {
+    background: url("images/overlay.png"), url("../../images/intro.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, bottom center;
+    background-repeat: repeat, no-repeat;
+}
+
 
 /* One */
 
