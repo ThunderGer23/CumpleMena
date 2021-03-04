@@ -2312,7 +2312,7 @@ body.is-touch .main {
 }
 
 #intro3 {
-    background: url("images/overlay.png"), url("../../images/intro2.jpg");
+    background: url("images/overlay.png"), url("../../images/intro3.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, bottom center;
@@ -2330,14 +2330,21 @@ body.is-touch .main {
 }
 
 #one2 {
-    background: url("images/overlay.png"), url("../../images/one2.jpg");
+    background: url("images/overlay.png"), url("../../images/one3.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, center center;
 }
 
 #one3 {
-    background: url("images/overlay.png"), url("../../images/one3.jpg");
+    background: url("images/overlay.png"), url("../../images/one2.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+#one4 {
+    background: url("images/overlay.png"), url("../../images/one2.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, center center;
